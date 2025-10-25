@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs or temp files
+*.log
+
+# Optional: dataset
+spam.csv
